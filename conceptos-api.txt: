@@ -1,0 +1,2 @@
+Esta ruta es un endpoint de Express.js que recibe reportes.
+app Crea una ruta que responde a peticiones POST en /reporte. O sea, cuando alguien envíe datos a esa URL con POST, se ejecuta esta función.

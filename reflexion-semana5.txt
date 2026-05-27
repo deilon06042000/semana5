@@ -1,0 +1,6 @@
+Las Apis son justo lo que hace posible que la información en una comunidad no quede distribuida en 20 grupos de WhatsApp distintos. Funcionan como pegamento que organiza y conecta los datos.
+Ayudan a centralizar reportes desde distintos canales.
+Filtran y etiquetan automáticamente.
+Distribuyen alertas en tiempo real.
+Evitan duplicado y desinformación.
+Dan transparencia con datos abiertos
